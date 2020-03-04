@@ -1,0 +1,29 @@
+{
+    "clientes":[
+        {"id" :1 , "nombre":"juan", "apellido":"figuera"},
+        {"id" :2 , "nombre":"Noliennis","apellido":"aguilera"},
+        {"id" :23 , "nombre":"Roberto","apellido":"Prospero"}
+    ],
+    "producto":[
+        {"id":1,"nombre":"chiclets adams", "precio":},
+        {"id":2,"nombre":"chiclets adams", "precio":}
+    ],
+
+    "transaccion":[
+        {"id":1,"idCliente":1, "total":, "liquidado", }
+        
+    ],
+
+    "dtransaccion":[
+        {"id":1,"idTransc":1, "idProducto":, "cantidad":,"precio":}
+        
+    ]
+
+
+
+
+
+
+
+
+}
